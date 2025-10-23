@@ -11,6 +11,7 @@ print( message , name)
 
 
 print("WELCOME MISTER " ,sep=""  + name , end="\n")
-print("02" , "12" , 2001)
+print("02" , "12" , 2001  ,   sep="->",end="-")
+
 
 
