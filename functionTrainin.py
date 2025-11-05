@@ -5,5 +5,3 @@ name = input("inser your name")
 hello(name)
 
 def main():
-  hello()
-main()
