@@ -1,0 +1,20 @@
+def list:
+  lists = [ 8, 'hi' , 'bye']
+  print(l)
+  
+l = [8 , 'hi', 'bye']
+
+print(l)
+l.append('wow')
+print(l)
+l.insert(2,"hai")
+print(l)
+print(l.count('bye'))
+l.pop(1)
+print(l)
+a = l.index(8)
+print(a)
+l.reverse()
+print(l)
+l.remove('bye')
+print(l)
