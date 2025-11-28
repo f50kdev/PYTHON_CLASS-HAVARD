@@ -1,10 +1,14 @@
-#create variable
+#create variable 
 
-numb_candadete = 3
+num_candidates = 3
 winning_percentage = 73.81
-candidate = "Diane"
+candidate = "Diana"
 won_election = True
-tally_local_werewolves = 10
-were_wolf_name  ="Billy"
-is_werewolf = False 
-print(numb_candadete)
+
+tolly_local_werewolves = 10
+werewolf_name = "Bily"
+is_werewolf = false
+
+def printingVariable():
+  werewolf_name = "wendy"
+  print(werewolf_name)
